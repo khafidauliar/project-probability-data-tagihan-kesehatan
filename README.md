@@ -19,7 +19,7 @@ Objektif pada proyek ini antara lain:
 4.  Analisa Korelasi Variabel
 5.  Pengujian Hipotesis
 ## D. Analisis
-[Medium](https://medium.com/@khafidauliar/project-probability-data-tagihan-kesehatan-8a77b9ae825b)
-[Presentasi Covariance dan Correlation](https://youtube.com/)
+- [Medium](https://medium.com/@khafidauliar/project-probability-data-tagihan-kesehatan-8a77b9ae825b)
+- [Presentasi Covariance dan Correlation](https://youtube.com/)
 
 **Author** Copyright (c) 2023 Khafid Aulia Rahman
